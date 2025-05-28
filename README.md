@@ -1,4 +1,4 @@
-# Credit Risk Classification Using LendingClub Data
+# Credit Risk Classification Using Lending Club Data
 
 This project applies machine learning techniques to classify loan default risk using publicly available data from **LendingClub**. The goal is to predict whether a borrower will default based on various financial, demographic, and loan-specific attributes.
 
